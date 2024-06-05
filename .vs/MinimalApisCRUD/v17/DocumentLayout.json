@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|c:\\users\\jorge\\documents\\udemy\\curso.net\\minimalapiscrud\\minimalapiscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|solutionrelative:minimalapiscrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|c:\\users\\jorge\\documents\\udemy\\curso.net\\minimalapiscrud\\minimalapiscrud\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|solutionrelative:minimalapiscrud\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|c:\\users\\jorge\\documents\\udemy\\curso.net\\minimalapiscrud\\minimalapiscrud\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|solutionrelative:minimalapiscrud\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|c:\\users\\jorge\\documents\\udemy\\curso.net\\minimalapiscrud\\minimalapiscrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|solutionrelative:minimalapiscrud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|c:\\users\\jorge\\documents\\udemy\\curso.net\\minimalapiscrud\\minimalapiscrud\\services\\interfaces\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|solutionrelative:minimalapiscrud\\services\\interfaces\\ibookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|c:\\users\\jorge\\documents\\udemy\\curso.net\\minimalapiscrud\\minimalapiscrud\\models\\bookmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E0A7C6-7889-4708-B95A-FE718F815F12}|MinimalApisCRUD\\MinimalApisCRUD.csproj|solutionrelative:minimalapiscrud\\models\\bookmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MinimalApisCRUD\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MinimalApisCRUD\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABQAAAAAAAAAAABUwCEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T14:13:08.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookServices.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Services\\Interfaces\\IBookServices.cs",
+              "RelativeDocumentMoniker": "MinimalApisCRUD\\Services\\Interfaces\\IBookServices.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Services\\Interfaces\\IBookServices.cs",
+              "RelativeToolTip": "MinimalApisCRUD\\Services\\Interfaces\\IBookServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:05:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "MinimalApisCRUD\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Services\\BookServices.cs",
+              "RelativeToolTip": "MinimalApisCRUD\\Services\\BookServices.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABOwAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:52:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Context\\ApiContext.cs",
+              "RelativeDocumentMoniker": "MinimalApisCRUD\\Context\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Context\\ApiContext.cs",
+              "RelativeToolTip": "MinimalApisCRUD\\Context\\ApiContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:26:08.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookModels.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Models\\BookModels.cs",
+              "RelativeDocumentMoniker": "MinimalApisCRUD\\Models\\BookModels.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Models\\BookModels.cs",
+              "RelativeToolTip": "MinimalApisCRUD\\Models\\BookModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:23:50.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "MinimalApisCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\Udemy\\Curso.Net\\MinimalApisCRUD\\MinimalApisCRUD\\Program.cs",
+              "RelativeToolTip": "MinimalApisCRUD\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:09:24.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
